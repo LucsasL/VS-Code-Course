@@ -1,5 +1,6 @@
 1. ctrl + n
 2. ctrl + o
 3. ctrl + s
+4. alt + shift + up/down
 
 (BRUH)
